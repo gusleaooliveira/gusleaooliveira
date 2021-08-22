@@ -4,4 +4,5 @@
 
 ![Linguagens favoritas](https://github-readme-stats.vercel.app/api/top-langs/?username=gusleaooliveira&langs_count=8&theme=blueberry&layout=compact)
 
+<i data-src="/home/gustavo/Documentos/Github/gusleaooliveira/icons/react/react-original.svg"></i>
 
